@@ -1,0 +1,18 @@
+reference:
+https://www.javatpoint.com/angular-8
+
+need to up four servers
+go to api folder and type npm start
+ng serve -o for running angular
+
+go to start computer open cmd and type mongod
+
+go to start computer cmd and type mongo for opening mongo shell
+
+or
+
+go to start computer and open mongodb compass community
+
+http://localhost:4200/product/create
+
+http://localhost:4000/product for mongo db
